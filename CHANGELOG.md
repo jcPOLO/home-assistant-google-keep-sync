@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/watkins-matt/home-assistant-google-keep-sync/compare/1.2.0...1.2.1) (2026-11-11)
+
+
+### Bug Fixes
+
+* **api:** save Keep state after sync ([#108](https://github.com/watkins-matt/home-assistant-google-keep-sync/issues/108)) ([34efd3d](https://github.com/watkins-matt/home-assistant-google-keep-sync/commit/34efd3d101e141f1f2c5e88450e1c05383b2f5b0))
+
 ## [1.2.0](https://github.com/watkins-matt/home-assistant-google-keep-sync/compare/1.1.0...1.2.0) (2026-11-09)
 
 
